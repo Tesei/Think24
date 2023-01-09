@@ -1,0 +1,8 @@
+.second-page .body {
+    background: url('./onlyLine.png') 0 0 / 100% 100% no-repeat;
+    @apply w-[1400px] h-[950px] flex flex-col justify-between relative pt-10 truncate;
+
+    .base-navigation-wrap {
+        @apply bg-white py-4 px-8 my-4 rounded-full z-10;
+    }
+    }
